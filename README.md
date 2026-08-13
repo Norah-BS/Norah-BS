@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **Norah Bin Salamah**
+# **Norah Bin Salamah**
 
 ### **AI & Data Enthusiast • Fast Learner • Building Practical Technical Projects**
 
@@ -11,11 +11,6 @@ I focus on creating organized, clear, and practical technical projects that demo
 ### 🌍 Based in  
 Riyadh, Saudi Arabia
 
-### 🖥️ Portfolio  
-[MyPortfolio](http://pppppppppppppppppppp)
-
-### ✉️ Contact  
-[nnnnnnnnnnnnnnnnnnnn](mailto:nnnnnnnnnnnnnnnnnnnn)
 
 ---
 
@@ -28,3 +23,8 @@ Riyadh, Saudi Arabia
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+## Projects
+
+[![Open Project](https://img.shields.io/badge/Open%20Project-DermaCare-purple?style=for-the-badge)](https://github.com/Norah-BS/dermaCare)
