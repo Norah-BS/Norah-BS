@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **Norah Bin Salamah**
 
-<!--
-**Norah-BS/Norah-BS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **AI & Data Enthusiast • Fast Learner • Building Practical Technical Projects**
 
-Here are some ideas to get you started:
+I’m passionate about learning new technologies and exploring how rapidly fields like AI and data science are evolving. I’m a curious, structured, and experimental learner who enjoys understanding how things work and consistently pushing myself to deliver high‑quality results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on creating organized, clear, and practical technical projects that demonstrate real problem‑solving. I maintain strong performance in my work, adapt quickly to new tools and environments, and continuously expand my skills through hands‑on learning and new challenges.
+
+---
+
+### 🌍 Based in  
+Riyadh, Saudi Arabia
+
+### 🖥️ Portfolio  
+[MyPortfolio](http://pppppppppppppppppppp)
+
+### ✉️ Contact  
+[nnnnnnnnnnnnnnnnnnnn](mailto:nnnnnnnnnnnnnnnnnnnn)
+
+---
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
